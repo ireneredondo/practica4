@@ -1,0 +1,20 @@
+---
+title: "CURSO DATOS EN R"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = F, cache = F)
+```
+
+# PRÁCTICA 4
+
+## EJERCICIO1
+
+*hola a todos* 
+
+
+```{r hola}
+plot(cars)
+```
+
